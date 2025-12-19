@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Praveen505Kumar
 - 👀 I’m interested in cracking the coding
-- 🌱 I’m currently learning GENAI
+- 🌱 I’m currently working on GENAI
 - 💞️ I’m looking to collaborate on GENAI technologies
 - 📫 How to reach me ...
 
